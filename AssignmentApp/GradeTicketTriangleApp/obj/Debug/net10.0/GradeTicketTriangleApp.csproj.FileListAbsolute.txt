@@ -1,0 +1,15 @@
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\bin\Debug\net10.0\GradeTicketTriangleApp.exe
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\bin\Debug\net10.0\GradeTicketTriangleApp.deps.json
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\bin\Debug\net10.0\GradeTicketTriangleApp.runtimeconfig.json
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\bin\Debug\net10.0\GradeTicketTriangleApp.dll
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\bin\Debug\net10.0\GradeTicketTriangleApp.pdb
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\obj\Debug\net10.0\GradeTicketTriangleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\obj\Debug\net10.0\GradeTicketTriangleApp.AssemblyInfoInputs.cache
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\obj\Debug\net10.0\GradeTicketTriangleApp.AssemblyInfo.cs
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\obj\Debug\net10.0\GradeTicketTriangleApp.csproj.CoreCompileInputs.cache
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\obj\Debug\net10.0\GradeTicketTriangleApp.sourcelink.json
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\obj\Debug\net10.0\GradeTicketTriangleApp.dll
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\obj\Debug\net10.0\refint\GradeTicketTriangleApp.dll
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\obj\Debug\net10.0\GradeTicketTriangleApp.pdb
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\obj\Debug\net10.0\GradeTicketTriangleApp.genruntimeconfig.cache
+C:\Users\fassi\AssignmentApp\GradeTicketTriangleApp\obj\Debug\net10.0\ref\GradeTicketTriangleApp.dll
