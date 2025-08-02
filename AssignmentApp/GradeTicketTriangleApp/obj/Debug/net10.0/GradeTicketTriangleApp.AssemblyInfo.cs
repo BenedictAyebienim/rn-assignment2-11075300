@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GradeTicketTriangleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+124b937e3d0f0270333238047348499b0d680ae2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08cea65b2cf814eae41960848a452cdf62e87705")]
 [assembly: System.Reflection.AssemblyProductAttribute("GradeTicketTriangleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GradeTicketTriangleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
