@@ -1,0 +1,15 @@
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\bin\Debug\net10.0\Q4_GradingSystem.exe
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\bin\Debug\net10.0\Q4_GradingSystem.deps.json
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\bin\Debug\net10.0\Q4_GradingSystem.runtimeconfig.json
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\bin\Debug\net10.0\Q4_GradingSystem.dll
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\bin\Debug\net10.0\Q4_GradingSystem.pdb
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\obj\Debug\net10.0\Q4_GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\obj\Debug\net10.0\Q4_GradingSystem.AssemblyInfoInputs.cache
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\obj\Debug\net10.0\Q4_GradingSystem.AssemblyInfo.cs
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\obj\Debug\net10.0\Q4_GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\obj\Debug\net10.0\Q4_GradingSystem.sourcelink.json
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\obj\Debug\net10.0\Q4_GradingSystem.dll
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\obj\Debug\net10.0\refint\Q4_GradingSystem.dll
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\obj\Debug\net10.0\Q4_GradingSystem.pdb
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\obj\Debug\net10.0\Q4_GradingSystem.genruntimeconfig.cache
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q4_GradingSystem\obj\Debug\net10.0\ref\Q4_GradingSystem.dll
