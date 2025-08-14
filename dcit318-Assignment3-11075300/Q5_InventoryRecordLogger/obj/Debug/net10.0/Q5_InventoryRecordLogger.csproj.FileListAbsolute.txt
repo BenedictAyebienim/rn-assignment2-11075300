@@ -1,0 +1,15 @@
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\bin\Debug\net10.0\Q5_InventoryRecordLogger.exe
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\bin\Debug\net10.0\Q5_InventoryRecordLogger.deps.json
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\bin\Debug\net10.0\Q5_InventoryRecordLogger.runtimeconfig.json
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\bin\Debug\net10.0\Q5_InventoryRecordLogger.dll
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\bin\Debug\net10.0\Q5_InventoryRecordLogger.pdb
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\obj\Debug\net10.0\Q5_InventoryRecordLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\obj\Debug\net10.0\Q5_InventoryRecordLogger.AssemblyInfoInputs.cache
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\obj\Debug\net10.0\Q5_InventoryRecordLogger.AssemblyInfo.cs
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\obj\Debug\net10.0\Q5_InventoryRecordLogger.csproj.CoreCompileInputs.cache
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\obj\Debug\net10.0\Q5_InventoryRecordLogger.sourcelink.json
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\obj\Debug\net10.0\Q5_InventoryRecordLogger.dll
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\obj\Debug\net10.0\refint\Q5_InventoryRecordLogger.dll
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\obj\Debug\net10.0\Q5_InventoryRecordLogger.pdb
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\obj\Debug\net10.0\Q5_InventoryRecordLogger.genruntimeconfig.cache
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q5_InventoryRecordLogger\obj\Debug\net10.0\ref\Q5_InventoryRecordLogger.dll
