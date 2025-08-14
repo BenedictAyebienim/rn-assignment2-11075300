@@ -1,0 +1,15 @@
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\bin\Debug\net10.0\Q1_FinanceManagementSystem.exe
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\bin\Debug\net10.0\Q1_FinanceManagementSystem.deps.json
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\bin\Debug\net10.0\Q1_FinanceManagementSystem.runtimeconfig.json
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\bin\Debug\net10.0\Q1_FinanceManagementSystem.dll
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\bin\Debug\net10.0\Q1_FinanceManagementSystem.pdb
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\obj\Debug\net10.0\Q1_FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\obj\Debug\net10.0\Q1_FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\obj\Debug\net10.0\Q1_FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\obj\Debug\net10.0\Q1_FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\obj\Debug\net10.0\Q1_FinanceManagementSystem.sourcelink.json
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\obj\Debug\net10.0\Q1_FinanceManagementSystem.dll
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\obj\Debug\net10.0\refint\Q1_FinanceManagementSystem.dll
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\obj\Debug\net10.0\Q1_FinanceManagementSystem.pdb
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\obj\Debug\net10.0\Q1_FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\fassi\DCIT318-Assignment3-11075300\Q1_FinanceManagementSystem\obj\Debug\net10.0\ref\Q1_FinanceManagementSystem.dll
